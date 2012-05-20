@@ -1,0 +1,11 @@
+# The URL from which the client is downloaded
+appbase = http://app.hascode.com/getdown-example/
+
+# UI Configuration
+ui.name = hasCode.com Getdown Example Application
+
+# Application jar files
+code = application.jar
+
+# The main entry point for the application
+class = com.hascode.app.Main
