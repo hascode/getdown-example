@@ -1,3 +1,0 @@
-getdown.txt = 8e21c512b66ced07bf7bf35f32a5ff43
-application.jar = cea3d39fccc69987290c342ed23c06ec
-digest.txt = e895f539f14d96e64376b1a1803ecb92
